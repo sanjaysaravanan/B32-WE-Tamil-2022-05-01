@@ -1,0 +1,23 @@
+Recap For Yesterday Topics:
+  ES5 vs ES6
+
+Topics:
+
+  node --> Javascript Runtime environment outside a web browser ( without browser )
+  
+  Modules which also enabled modularizing codes
+
+  npm - node package manager, including packages with es6/es5 syntax
+  npx - node package execute --> used to excute an excutable and setup the env for the codebase
+
+
+  SPA --> Single Page Application 
+    Loads Single Html file, later on only the HTML DOM gets changed with the help JSON data using ajax calls
+
+  why React
+  Setup React Project
+  Commands:
+    npx create-react-app@latest sample-app
+    cd samp-app
+    npm start
+
